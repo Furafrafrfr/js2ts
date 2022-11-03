@@ -2,7 +2,7 @@ import { extname } from 'path';
 
 export const jsts = {
   '.js': '.ts',
-  '.jsx': 'tsx',
+  '.jsx': '.tsx',
   '.cjs': '.cts',
   '.mjs': '.mts',
 };

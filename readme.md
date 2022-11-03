@@ -9,4 +9,4 @@ yarn start /path/to/src
 yarn start /path/to/src /path/to/dist
 ```
 
-__`node_module`も変換対象になってしまう__
+__`node_module`も変換対象になる__
