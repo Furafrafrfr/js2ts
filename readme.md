@@ -3,6 +3,7 @@
 
 ```bash
 git clone git@github.com:Furafrafrfr/js2ts.git && cd ./js2ts
+yarn install
 # 既存のファイルを直接書き換える
 yarn start /path/to/src 
 # or
